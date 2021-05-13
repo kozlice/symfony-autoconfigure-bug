@@ -3,7 +3,7 @@
     "license": "proprietary",
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.2.5",
+        "php": ">=8.0",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "symfony/console": "5.*",
